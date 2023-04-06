@@ -216,8 +216,6 @@ form {
     background-image: url("images/bg-pattern-desktop.svg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: top left;
-    background-attachment: fixed;
     width: 100%;
     height: 100%;
     display: grid;
